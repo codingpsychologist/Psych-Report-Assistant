@@ -8,3 +8,5 @@ pandas library
 docxtpl library
 PySimpleGUI library
 
+License
+This script is released under the MIT License. See the LICENSE file for more information.# Coding-Psychologist
